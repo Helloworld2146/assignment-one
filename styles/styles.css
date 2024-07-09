@@ -1,0 +1,29 @@
+/* banner part */
+.banner{
+    max-width: 100%;
+    height: 581px;
+    background-image: url("../assets/Hero-bg.png");
+}
+.banner-content{
+    width: 998px;
+    height: 581px;
+    margin: 0 auto;
+    text-align: center;
+}
+.banner-title{
+    font-size: 28px;
+    font-weight: bolder;
+    font-family: "Azeret Mono", monospace;
+}
+.banner-description{
+    color: #0D1321;
+}
+.banner-btn{
+    width: 224px;
+    height: 65px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #0D1321;
+    border-radius: 8px;
+}
