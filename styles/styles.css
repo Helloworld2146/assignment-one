@@ -67,6 +67,7 @@
 .commitment-title-description{
     color: #697081;
     font-size: 20px;
+    font-family: "Azeret Mono", monospace;
     
 }
 .commitment-align{
@@ -141,6 +142,7 @@
 .target-title{
     font-size: 32px;
     font-weight: bolder;
+    font-family: "Azeret Mono", monospace;
 }
 .skills-card{
     display: flex;
@@ -151,7 +153,62 @@
     box-shadow: 0 4px 10px 0 #a49c9c;
     background-color: #ffffff; 
     margin-bottom: 111px;
+    font-family: "Azeret Mono", monospace;
 }
 .anchor{
     color: #0D1321;
+}
+/* footer start */
+.last-section{
+    margin-top: 60px;
+    position: relative;
+    padding-bottom: 80px;
+}
+.last-section-image{
+    width: 1140px;
+    height: 420px;
+    background: url("../assets/handshake.jpg") no-repeat center;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+.last-section-content{
+    justify-content: center;
+    text-align: center;
+}
+.last-section-title{
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Azeret Mono", monospace;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 64px;
+}
+.last-section-title-description{
+    width: 600px;
+    height: 52px;
+    font-size: 20px;
+    font-weight: 400px;
+    font-family: "Azeret Mono", monospace;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+.last-section input[type="text"]{
+    width: 500px;
+    height: 20px;
+    font-size: 20px;
+    font-family: "Azeret Mono", monospace;
+    padding: 15px;
+    border-radius: 10px;
+}
+.last-section input[type="submit"]{
+    width: 120px;
+    height: 51px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Azeret Mono", monospace;
+    padding: 12px;
+    margin-top: 50px;
+    border-radius: 10px;
 }
