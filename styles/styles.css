@@ -212,3 +212,23 @@
     margin-top: 50px;
     border-radius: 10px;
 }
+/* footer start */
+.footer{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    background: rgb(243, 240, 240);
+    padding: 32px;
+}
+.footer-title{
+    font-size: 20px;
+    font-weight: 600px;
+    font-family: "Azeret Mono", monospace;
+}
+.footer-icone{
+    padding-right: 100px;
+}
+.footer-icone a{
+    margin-right: 32px;
+}
