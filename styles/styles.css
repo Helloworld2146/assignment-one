@@ -3,6 +3,7 @@
     max-width: 100%;
     height: 581px;
     background-image: url("../assets/Hero-bg.png");
+    margin-bottom: 74px;
 }
 .banner-content{
     width: 998px;
@@ -26,4 +27,73 @@
     color: #FFFFFF;
     background-color: #0D1321;
     border-radius: 8px;
+}
+/* web-development-importance */
+.become-a-developer{
+    width: 1140px;
+    height: 1300px;
+    border-radius: 16px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: rgb(236, 236, 225);
+}
+.web-development-importance{
+    width: 946px;
+    height: 1233px;
+    margin: 0 auto;
+}
+.commitment{
+    width: 800px;
+    height: 113px;
+    margin: 0 auto;
+}
+.commitment-box{
+    width: 946px;
+    height: 1233px;
+    padding-top: 48px;
+}
+.topic-title{
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: "Azeret Mono", monospace;
+}
+.commitment-title{
+    font-size: 24px;
+    font-weight: bold;
+    color:  #0D1321;
+    font-family: "Azeret Mono", monospace;
+}
+.commitment-title-description{
+    color: #0D1321;
+}
+.commitment-align{
+    text-align: left;
+    justify-content: space-between;
+    padding: 32px;
+   
+}
+.commitment-1{
+   
+    display: flex;
+    justify-content: space-around;
+    gap: 48px;
+    
+}
+.commitment-2{
+    display: flex;
+    justify-content: space-between;
+    gap: 48px;
+}
+.commitment-3{
+    display: flex;
+    justify-content: space-between;
+    gap: 48px;
+}
+.primary-btn{
+    width: 171px;
+    height: 47px;
+    font-family: "Azeret Mono", monospace;
+    font-size: 20px;
+    font-weight: 600;
 }
