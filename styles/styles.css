@@ -125,3 +125,33 @@
     border-radius: 16px;
     margin: 0 auto;
 }
+/* target items */
+.target{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+}
+.target-box{
+    width: 850px;
+    height: 113px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 48px;
+}
+.target-title{
+    font-size: 32px;
+    font-weight: bolder;
+}
+.skills-card{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 40px;
+    box-shadow: 0 4px 10px 0 #a49c9c;
+    background-color: #ffffff; 
+    margin-bottom: 111px;
+}
+.anchor{
+    color: #0D1321;
+}
