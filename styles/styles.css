@@ -65,7 +65,9 @@
     font-family: "Azeret Mono", monospace;
 }
 .commitment-title-description{
-    color: #0D1321;
+    color: #697081;
+    font-size: 20px;
+    
 }
 .commitment-align{
     text-align: left;
@@ -96,4 +98,30 @@
     font-family: "Azeret Mono", monospace;
     font-size: 20px;
     font-weight: 600;
+}
+
+
+/* motivation */
+.motivation-box{
+    width: 1140px;
+    height: 775px;
+    margin: 0 auto;
+    margin-top: 90px;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 150px;
+}
+.motivation{
+    width: 852px;
+    height: 113px;
+    margin: 0 auto;
+    margin-bottom: 48px;
+}
+.video{
+    width: 900px;
+    height: 450px;
+    padding: 48px;
+    border: 1px solid rgb(150, 144, 144);
+    border-radius: 16px;
+    margin: 0 auto;
 }
